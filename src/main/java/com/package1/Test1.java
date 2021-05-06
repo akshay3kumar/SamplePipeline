@@ -10,7 +10,7 @@ public class Test1 {
 	private double y;
 	Calculator c;
 	public Test1() {
-		this.x = 10;
+		this.x = 100;
 		this.y = 20;
 		this.c=new Calculator(x, y);
 	}
